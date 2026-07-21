@@ -28,8 +28,16 @@ Goal       :: Build secure systems by understanding how to break them.
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,docker,vscode&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,nodejs,docker,git,github,vscode&perline=8" />
 </p>
+
+---
+
+## 💻 Development Background
+
+- Backend Development
+- REST APIs
+- Secure Software Development
 
 ---
 
